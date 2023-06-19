@@ -1,0 +1,10 @@
+name: 'Domain Registration'
+description: 'Restrict user registration to email addresses of particular domains'
+core_version_requirement: ^9.1 || ^10
+configure: domain_registration.admin_form
+type: module
+
+# Information added by Drupal.org packaging script on 2023-02-27
+version: '8.x-1.8'
+project: 'domain_registration'
+datestamp: 1677491624
